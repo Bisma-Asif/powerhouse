@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "emaar-crescent-bay",
+    "title": "Emaar Crescent Bay Coastal Towers",
+    "sector": "residential",
+    "location": "Karachi Coast, Pakistan",
+    "year": "2024",
+    "summary": "1,200 luxury waterfront suites specified with Clipsal Vivace switching matrices and ABB circuit protection.",
+    "challenge": "Delivering a consistent premium switchline, dependable protection and a single supplier chain across a phased high-rise handover of more than a thousand units.",
+    "solution": "Powerhouse staged factory-certified Clipsal and ABB stock against the handover schedule, ran a 24-hour priced BOQ SLA for every variation, and trained the site electrical teams on the specified schedules.",
+    "scope": "1,200 luxury units • Switching, sockets & circuit protection",
+    "brands": ["Clipsal", "ABB"],
+    "categories": ["switches-sockets", "industrial-switchgear"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_01.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=75", "alt": "Luxury residential towers glowing at dusk" },
+      { "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=75", "alt": "Modern apartment living room with layered lighting" },
+      { "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b3021?auto=format&fit=crop&w=1600&q=75", "alt": "Waterfront apartment interior" }
+    ]
+  },
+  {
+    "slug": "lucky-one-mall",
+    "title": "Lucky One Mall Karachi",
+    "sector": "commercial",
+    "location": "Malir, Karachi, Pakistan",
+    "year": "2023",
+    "summary": "Main low-voltage power distribution, Himel industrial molded-case breakers and emergency switchgear for one of Asia's largest malls.",
+    "challenge": "A retail megaplex cannot flicker: distribution had to be selective, maintainable live, and sourced without counterfeits in a market flooded with them.",
+    "solution": "Powerhouse supplied certified Himel MCCBs and distribution gear with certificates of origin, coordinated staged deliveries around mall hours and backed the install with 24-hour spares support.",
+    "scope": "Multi-megawatt LV distribution • Switchgear supply & schedule",
+    "brands": ["Himel", "ABB"],
+    "categories": ["industrial-switchgear", "lighting"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_02.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=75", "alt": "Commercial retail tower facade" },
+      { "src": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1600&q=75", "alt": "Bright modern retail interior" },
+      { "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=75", "alt": "Feature lighting inside a retail space" }
+    ]
+  },
+  {
+    "slug": "dolmen-executive-towers",
+    "title": "Dolmen Executive Towers Clifton",
+    "sector": "commercial",
+    "location": "Clifton, Karachi, Pakistan",
+    "year": "2023",
+    "summary": "Enterprise structured cabling backbone on Schneider Actassi Cat6A shielded copper with fibre patch enclosures.",
+    "challenge": "Corporate tenants demanded 10-gigabit-ready risers and floor distribution with end-to-end certification — inside occupied towers.",
+    "solution": "Actassi copper and fibre trunks were factory-terminated, tested and handed over with channel reports, racked in enclosed 42U cabinets with managed containment.",
+    "scope": "10GBASE-T structured cabling • Risers & floors",
+    "brands": ["Schneider Electric"],
+    "categories": ["network-connectivity"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_03.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?auto=format&fit=crop&w=1600&q=75", "alt": "Glass executive tower viewed from below" },
+      { "src": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=75", "alt": "Corporate office interior" },
+      { "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=75", "alt": "Structured cabling and network hardware detail" }
+    ]
+  },
+  {
+    "slug": "serena-hotels-resorts",
+    "title": "Serena Hotels & Resorts",
+    "sector": "hospitality",
+    "location": "Multiple cities, Pakistan",
+    "year": "2022",
+    "summary": "Guest Room Management Systems, digital door access and centralised smart scene control across luxury suites.",
+    "challenge": "Five-star comfort at hotel economics: guest rooms that save energy when empty, doors that log every entry, and scenes that feel effortless.",
+    "solution": "Riva GRMS with keycard power switching, Lockly digital deadbolts and BlueDot scene panels were commissioned floor by floor, integrated with the property network.",
+    "scope": "450 automated suites • GRMS, access & scenes",
+    "brands": ["Riva", "Lockly", "BlueDot"],
+    "categories": ["building-automation", "security-surveillance"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_04.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1551882547-ff40c63fe5c8?auto=format&fit=crop&w=1600&q=75", "alt": "Hotel lobby with warm layered lighting" },
+      { "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&q=75", "alt": "Guest room with bedside control" },
+      { "src": "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1600&q=75", "alt": "Resort poolside at golden hour" }
+    ]
+  },
+  {
+    "slug": "habib-metro-bank",
+    "title": "Habib Metro Bank Corporate Centre",
+    "sector": "commercial",
+    "location": "Karachi, Pakistan",
+    "year": "2022",
+    "summary": "Turnkey wiring accessories and ABB surge protection across the headquarters and branch network.",
+    "challenge": "A banking network needs identical, authentic hardware in every branch — procured centrally, installed by many contractors.",
+    "solution": "Powerhouse issued a standardised accessory schedule (Clipsal switchlines, ABB SPDs and DBs), held central stock and delivered branch by branch against the fit-out calendar.",
+    "scope": "Head office & branch network • Accessories & protection",
+    "brands": ["Clipsal", "ABB"],
+    "categories": ["switches-sockets", "industrial-switchgear"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_05.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1487958449943-2429e8be8d27?auto=format&fit=crop&w=1600&q=75", "alt": "Corporate bank facade architecture" },
+      { "src": "https://images.unsplash.com/photo-1497366216548-31ef08aebf59?auto=format&fit=crop&w=1600&q=75", "alt": "Meeting room interior" },
+      { "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=75", "alt": "Business district towers" }
+    ]
+  },
+  {
+    "slug": "packages-group-infrastructure",
+    "title": "Packages Group Infrastructure",
+    "sector": "industrial",
+    "location": "Kashmore / Lahore, Pakistan",
+    "year": "2021",
+    "summary": "Heavy industrial switchgear, IP66 metalclad socket systems and high-amperage protection for plant operations.",
+    "challenge": "Dust, load and uptime: plant electrical rooms needed genuine breaking capacity and connectors that survive industrial abuse.",
+    "solution": "ABB and Himel protection, ESM metalclad outlets and VTEKE fuses were supplied with manufacturer documentation, plus on-site training for maintenance crews.",
+    "scope": "Industrial LV switchgear • Metalclad & protection",
+    "brands": ["ABB", "Himel", "ESM Series", "VTEKE"],
+    "categories": ["industrial-switchgear", "metalclad-accessories"],
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/client_06.jpg",
+    "gallery": [
+      { "src": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=1600&q=75", "alt": "Industrial facility interior" },
+      { "src": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/breaker-450x450.jpg", "alt": "Industrial circuit breaker hardware" },
+      { "src": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/metalclad-450x450.jpg", "alt": "Metalclad industrial socket enclosure" }
+    ]
+  }
+]

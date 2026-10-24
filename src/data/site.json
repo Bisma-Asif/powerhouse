@@ -1,0 +1,105 @@
+{
+  "name": "Powerhouse Building Solutions",
+  "legalName": "Powerhouse (Pvt.) Ltd.",
+  "tagline": "Elevating Your Lifestyle",
+  "domain": "https://powerhouse.com.pk",
+  "description": "Powerhouse is Pakistan's one-stop super store for electrical and electronic products, luxury switches, lighting, building automation, switchgear, security and Hi-Fi/AV solutions — representing over 100 global brands with offices in Karachi and Islamabad.",
+  "hero": {
+    "kicker": "Electrical · Lighting · Automation · Security · AV",
+    "title": "A home means more than ever before",
+    "subtitle": "It is your sanctuary, your home office, somewhere for you and your family to unwind and connect. At Powerhouse we create home electrical products and solutions to help make your home everything it should be… and more — from modern switches and power points to smart home and safety technology."
+  },
+  "stats": [
+    { "value": 100, "suffix": "+", "label": "Global Brands", "text": "Over 100 top-tier global brands in electrical and electronic products." },
+    { "value": 500, "suffix": "+", "label": "Lighting Options", "text": "More than 500 lighting solutions for every space and mood." },
+    { "value": 300, "suffix": "+", "label": "Wiring Devices", "text": "Over 300 advanced wiring devices and accessories." },
+    { "value": 150, "suffix": "+", "label": "Automation Products", "text": "More than 150 home automation and control products." }
+  ],
+  "locations": [
+    {
+      "type": "headquarters",
+      "name": "Corporate Head Office",
+      "address": "Suite # 611, 6th Floor, The Forum, G-20, Block-9, Khayaban-e-Jami, Clifton, Karachi, Pakistan",
+      "phone": "+92 21 111 509 509",
+      "phoneHref": "+9221111509509",
+      "email": "info@powerhouse.com.pk",
+      "hours": "Mon – Fri: 8:00 AM – 8:00 PM · Sat – Sun: 10:00 AM – 2:00 PM",
+      "mapQuery": "The Forum, Khayaban-e-Jami, Clifton, Karachi"
+    },
+    {
+      "type": "showroom",
+      "name": "Exclusive Display Showroom",
+      "address": "Building No. 34-C, Lane No. 12, Bukhari Commercial, Phase-VI, DHA, Karachi, Pakistan",
+      "phone": "+92 21 3515 6136",
+      "phoneHref": "+922135156136",
+      "email": "info@powerhouse.com.pk",
+      "hours": "Mon – Sat: 10:00 AM – 6:00 PM",
+      "mapQuery": "Bukhari Commercial, Phase VI, DHA, Karachi"
+    },
+    {
+      "type": "office",
+      "name": "Islamabad Office",
+      "address": "47, Furniture Market, Golra Road, Islamabad, Pakistan",
+      "phone": "+92 21 111 081 081",
+      "phoneHref": "+9221111081081",
+      "email": "support@powerhouse.com.pk",
+      "hours": "Mon – Sat: 10:00 AM – 6:00 PM",
+      "mapQuery": "Golra Road, Islamabad"
+    }
+  ],
+  "emails": { "general": "info@powerhouse.com.pk", "support": "support@powerhouse.com.pk" },
+  "whatsapp": "9221111509509",
+  "social": { "facebook": "https://www.facebook.com/Powerhouse.com.pk/" },
+  "process": [
+    { "step": "Plan", "title": "Plan & Design", "text": "Free consultation, load and layout planning, lighting design and circuit schedules tailored to your architecture." },
+    { "step": "Select", "title": "Select Genuine Products", "text": "Choose from 100+ certified global brands in our Karachi and Islamabad display centres — authenticity guaranteed." },
+    { "step": "Install", "title": "Expert Installation", "text": "Certified technicians handle wiring, mounting, automation commissioning and AV calibration to safety protocols." },
+    { "step": "Support", "title": "Ongoing Support", "text": "Maintenance checks, spares and technical support from engineers who know your installation inside out." }
+  ],
+  "story": {
+    "intro": "Powerhouse is a novel concept of a super store for electrical and electronic products in Pakistan — one destination where architects, engineers, contractors and homeowners can see, compare and specify genuine products from over 100 global brands under a single roof.",
+    "paragraphs": [
+      "Founded in Karachi, Powerhouse set out to solve a persistent problem in the Pakistani construction market: counterfeit gear, fragmented suppliers and specifications that didn't survive the site. We built a curated, authorised distribution house instead — premium switches, lighting, building automation, industrial switchgear, security and Hi-Fi/AV systems, all backed by certificates of origin and manufacturer warranty.",
+      "Today our teams work across residential towers, hospitality, commercial fit-outs and industrial plants in Karachi and Islamabad, advising from first drawing to final commissioning. Whatever the scale, the promise is the same: genuine products, honest specification and support that continues long after installation.",
+      "With display centres in DHA Karachi and an office on Golra Road, Islamabad, every product on this site can be seen, touched and tested before you specify it."
+    ]
+  },
+  "values": [
+    { "icon": "shield", "title": "Authenticity First", "text": "Authorised distribution and direct factory imports only. Every item ships with provenance you can verify." },
+    { "icon": "user", "title": "Consultative Honesty", "text": "We specify what suits your project and budget — not what sells fastest. Price on request, always transparent." },
+    { "icon": "spark", "title": "Design-Led", "text": "Lighting and automation are design disciplines. We support architects and interior teams with real layouts, not catalogues." },
+    { "icon": "bolt", "title": "Built for Site", "text": "Products chosen for Pakistani power conditions, dust and load profiles — installed and serviced by our own technicians." }
+  ],
+  "teams": [
+    { "icon": "bulb", "title": "Lighting & Design Studio", "text": "Lighting designers and DALI/automation specialists who translate architecture into ambience, lux levels and control scenes." },
+    { "icon": "tools", "title": "Project & Site Engineering", "text": "Electrical engineers and certified technicians for load calculations, cable scheduling, installation and commissioning." },
+    { "icon": "network", "title": "Systems & Integration", "text": "AV, security, networking and building-automation integrators who program KNX, Crestron, Sonos and access-control systems end to end." },
+    { "icon": "quote", "title": "Sales & Supply Chain", "text": "Specifiers who source 100+ brands, manage BOQ quotations, imports and on-time delivery to site." }
+  ],
+  "services": [
+    {
+      "id": "planning-design",
+      "icon": "bulb",
+      "title": "Planning & Design",
+      "tagline": "From first drawing to a buildable electrical specification.",
+      "text": "Powerhouse engineers and lighting designers work alongside your architect from concept stage — load studies, circuit schedules, lux-planned lighting layouts, automation schematics and AV drawings, then a itemised BOQ with genuine product selections.",
+      "bullets": ["Electrical load & circuit planning", "Lighting design with lux calculations", "Smart-home / KNX / automation schematics", "AV, security & network topology drawings", "Itemised BOQ with brand-approved specifications"]
+    },
+    {
+      "id": "installation-wiring",
+      "icon": "tools",
+      "title": "Installation & Wiring",
+      "tagline": "Certified technicians, safety protocols, clean handover.",
+      "text": "Our own installation crews execute what we specify: containment, wiring, mounting of switches, fittings, panels and devices, termination of switchgear, and full commissioning of automation, security and AV systems with testing records.",
+      "bullets": ["Wiring & containment installation", "Switch, socket & fixture mounting", "Panel & switchgear termination", "Automation, security & AV commissioning", "Testing, tagging and as-built handover"]
+    },
+    {
+      "id": "maintenance",
+      "icon": "shield",
+      "title": "Maintenance & Support",
+      "tagline": "Support that continues long after handover.",
+      "text": "Annual health checks for lighting, automation and security systems, genuine spare parts from our stocked brands, reprogramming and scene updates, and priority call-outs for commercial and industrial clients.",
+      "bullets": ["Preventive maintenance audits", "Genuine spare parts supply", "Automation reprogramming & scene updates", "Security & network health checks", "Priority commercial support contracts"]
+    }
+  ]
+}

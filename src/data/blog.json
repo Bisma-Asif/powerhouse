@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "choose-switchline",
+    "title": "How to Choose a Switchline That Matches Your Interiors",
+    "excerpt": "Flush plates are the jewellery of a room. A practical guide to finishes, gang counts and mechanisms from Clipsal E-Series to Schneider AvatarOn.",
+    "date": "2026-08-14",
+    "author": "Powerhouse Team",
+    "category": "Buying Guide",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/switches-sockets-300x300.jpg",
+    "read": "6 min read",
+    "body": ["A switchline is touched thousands of times a year and sits at eye level on every wall — yet it is usually chosen last. Start with the finish: gloss white for neutrality, matt charcoal for modern joinery, metallic surrounds where the detailing is luxe. Then fix the gang architecture: how many circuits land on each wall point decides 1, 2 or 3-gang plates, and screwless surrounds hide the fixings entirely.", "Do not mix mechanisms and plates blindly — verify the series compatibility (E-Series, Saturn, Neo and AvatarOn each have their own surround ecosystem). Finally, decide where dimming, USB and smart modules belong now, so the conduit and boxes are sized correctly before plaster closes the walls. Bring your room elevations to any Powerhouse counter and we will map every plate on a schedule.", "Our Karachi showroom keeps live walls of every major series so you can feel the rocker action — because a switch you enjoy pressing is a small daily luxury worth spec'ing properly."]
+  },
+  {
+    "slug": "layered-lighting-design",
+    "title": "The Three Layers of Lighting Design: Ambient, Task, Accent",
+    "excerpt": "Why a single ceiling fitting never feels designed — and how to layer downlights, profiles and magnetic tracks like a professional.",
+    "date": "2026-07-02",
+    "author": "Powerhouse Team",
+    "category": "Lighting",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/wiring-Devices-450x450.jpg",
+    "read": "5 min read",
+    "body": ["Good interiors are lit in layers. Ambient light fills the room (downlights on a grid, ceiling fittings), task light serves the work (under-cabinet strips, reading positions, vanity mirrors), and accent light creates the drama — wall grazes, art spots and cove washes that give a space depth after dark.", "Two numbers matter more than wattage: CCT (2700K relaxes, 4000K works) and CRI (choose 90+ where you judge colour — kitchens, wardrobes, retail). Keep every layer on its own circuit or dimming channel; Coarts 48V magnetic track makes re-aiming accents a tool-free job years after handover.", "Bring your floor plan to Powerhouse and our lighting team will sketch the layer plan with real fixtures from our 500+ option range — before a single hole is cut."]
+  },
+  {
+    "slug": "knx-vs-wifi-automation",
+    "title": "KNX, Zigbee or Wi-Fi? Choosing an Automation Backbone",
+    "excerpt": "Wired reliability versus wireless retrofit — a plain-language comparison for new builds and renovations in Pakistan.",
+    "date": "2026-06-18",
+    "author": "Powerhouse Team",
+    "category": "Automation",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/Lighting-Control-450x450.jpg",
+    "read": "7 min read",
+    "body": ["KNX is the wired professional standard: every panel and actuator on a bus, deterministic, no batteries, ideal for villas and towers where the cable can be laid during construction. Zigbee mesh devices (like BlueDot's panels and sensors) deliver most of that experience wirelessly and shine in retrofits and hotel floors. Wi-Fi is the pragmatic entry point — smart plugs, curtain motors and app scenes without any new infrastructure.", "The honest answer for most Pakistani projects is hybrid: bus-grade control for lighting and AC in the core areas, wireless where renovation cost dominates, and one good gateway so scenes span both. Whatever the backbone, demand local failsafe — switches must still work when the internet does not.", "Powerhouse commissions all three families. A 30-minute call with our automation engineers usually saves a year of app-hopping."]
+  },
+  {
+    "slug": "spot-counterfeit-electrical",
+    "title": "How to Spot Counterfeit Electrical Products in Pakistan",
+    "excerpt": "Fake ABB breakers are not a bargain — they are an insurance problem. Five checks before any switchgear purchase.",
+    "date": "2026-05-27",
+    "author": "Powerhouse Team",
+    "category": "Awareness",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/breaker-450x450.jpg",
+    "read": "4 min read",
+    "body": ["Counterfeit miniature breakers often look flawless at arm's length. Check the moulding quality under bright light: genuine ABB S200 housings have crisp, deeply embossed legends and evenly doped laser-marked codes. Weigh it — fakes skip copper and arc chutes, so a counterfeit feels feather-light for its rating.", "Verify the QR/hologram where the brand provides one, insist on the distributor's invoice naming the importer, and treat prices 40% under market as proof, not a bargain. A breaker that fails to trip is not a saved rupee — it is the fire that follows.", "Powerhouse imports directly from factories and provides certificate of origin with project supplies. Ask to see it. It is the shortest due-diligence test there is."]
+  },
+  {
+    "slug": "hotel-grms-value",
+    "title": "What a Guest Room Management System Actually Saves a Hotel",
+    "excerpt": "Keycard power switching, scene control and HVAC interlock — the arithmetic behind GRMS in Pakistani hotels.",
+    "date": "2026-04-15",
+    "author": "Powerhouse Team",
+    "category": "Hospitality",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5c8?auto=format&fit=crop&w=1400&q=75",
+    "read": "6 min read",
+    "body": ["An unoccupied room cooling a 12-hour gap is pure loss. GRMS fixes that first: pull the card, and lighting, geyser and AC drop to an eco setpoint; guest returns, and the room resumes comfort within minutes. Hotels running card-switch GRMS routinely report 20–30% reductions in guest-room energy.", "The second dividend is perceived quality — welcome scenes, DND/doorbell logic, and mood lighting that guests remember and mention in reviews. The third is operational: the front desk can see room status and maintenance teams get fault reports per room, not per floor.", "Riva and BlueDot GRMS hardware is displayed live at our Karachi showroom. We can model the payback on your room count and tariff before you commit."]
+  },
+  {
+    "slug": "structured-cabling-checklist",
+    "title": "The Structured Cabling Checklist We Audit Every Office With",
+    "excerpt": "From bend radius to label format — ten field checks that separate a certified network from a coiled disaster.",
+    "date": "2026-03-08",
+    "author": "Powerhouse Team",
+    "category": "Networking",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/Networking-450x450.jpg",
+    "read": "5 min read",
+    "body": ["A network is only as good as its least tidy patch cord. Our audit starts at the rack: vertical managers present, no cables bearing their own weight on the port, and the dressing radius respected on every bend. Cat6A tolerates far less than installers assume.", "On the floor we check label consistency (panel port = faceplate code, both readable after ten years), separation from power trays, and reserve capacity at every floor box. Then channel test reports — not just 'it links up' — showing headroom against the Cat6A mask.", "If it has been a while, Powerhouse runs audits for a fixed fee and quotes the remediation as a BOQ. Structured cabling, done structured, is the cheapest infrastructure upgrade a company can make."]
+  }
+]

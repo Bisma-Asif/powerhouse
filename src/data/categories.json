@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "switches-sockets",
+    "name": "Switches & Sockets",
+    "icon": "toggle",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/switches-sockets-300x300.jpg",
+    "blurb": "Flush switches, 13A socket outlets, dimmers, surrounds and telecommunication accessories from Clipsal, Schneider, Himel and Riva.",
+    "subcategories": [
+      { "slug": "flush-switches", "name": "Flush Switches" },
+      { "slug": "socket-outlets", "name": "Socket Outlets" },
+      { "slug": "fan-light-dimmers", "name": "Fan & Light Dimmers" },
+      { "slug": "telecommunication-accessories", "name": "Telecommunication Accessories" },
+      { "slug": "hotel-accessories", "name": "Hotel Accessories" },
+      { "slug": "surrounds", "name": "Surrounds & Plates" }
+    ]
+  },
+  {
+    "slug": "lighting",
+    "name": "Lighting",
+    "icon": "bulb",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/wiring-Devices-450x450.jpg",
+    "blurb": "Architectural downlights, magnetic track, highbay, flood, street and decorative luminaires — over 500 fixtures for every space.",
+    "subcategories": [
+      { "slug": "down-lights", "name": "Down Lights" },
+      { "slug": "track-lights", "name": "Track & Magnetic Lights" },
+      { "slug": "flood-lights", "name": "Flood Lights" },
+      { "slug": "highbay-lights", "name": "Highbay Lights" },
+      { "slug": "street-lights", "name": "Street Lights" },
+      { "slug": "wall-ceiling-lights", "name": "Wall & Ceiling Lights" },
+      { "slug": "tube-batten-lights", "name": "Tube & Batten Lights" },
+      { "slug": "exit-emergency-lights", "name": "Exit & Emergency Lights" },
+      { "slug": "architectural-lights", "name": "Architectural & Profile Lights" },
+      { "slug": "pool-lights", "name": "Pool Lights" }
+    ]
+  },
+  {
+    "slug": "building-automation",
+    "name": "Building Automation",
+    "icon": "hub",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/Lighting-Control-450x450.jpg",
+    "blurb": "KNX-grade smart panels, motion sensors, GRMS and app-controlled lighting, curtain and fan automation by BlueDot, Ltech and Riva.",
+    "subcategories": [
+      { "slug": "smart-home-solutions", "name": "Smart Home Solutions" },
+      { "slug": "motion-sensors", "name": "Motion Sensors" },
+      { "slug": "guest-room-management", "name": "Guest Room Management (GRMS)" },
+      { "slug": "lighting-control", "name": "Lighting Control & Automation" }
+    ]
+  },
+  {
+    "slug": "industrial-switchgear",
+    "name": "Industrial & Switchgear",
+    "icon": "bolt",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/breaker-450x450.jpg",
+    "blurb": "MCBs, MCCBs, ACBs, contactors, overload relays, capacitor banks, distribution boxes and meters — ABB, Himel, PCE and VTEKE protection.",
+    "subcategories": [
+      { "slug": "mcb", "name": "Miniature Circuit Breakers" },
+      { "slug": "mccb", "name": "Molded Case Circuit Breakers" },
+      { "slug": "acb", "name": "Air Circuit Breakers" },
+      { "slug": "contactors-relays", "name": "Contactors & Relays" },
+      { "slug": "power-factor-capacitors", "name": "Power Factor Capacitors" },
+      { "slug": "fuses", "name": "HRC Fuses" },
+      { "slug": "distribution-boxes", "name": "Consumer & Distribution Boxes" },
+      { "slug": "industrial-plugs-sockets", "name": "Industrial Plugs & Sockets" },
+      { "slug": "digital-meters", "name": "Digital Meters & Transformers" },
+      { "slug": "motor-protection", "name": "Motor Protection (MPCB)" }
+    ]
+  },
+  {
+    "slug": "security-surveillance",
+    "name": "Security & Surveillance",
+    "icon": "camera",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/security-surveillance-1-300x300.jpg",
+    "blurb": "AI IP cameras with colour starlight optics, NVRs, access control, digital door locks and intercom systems by Tiandy, Lockly and Inter-M.",
+    "subcategories": [
+      { "slug": "ip-cameras", "name": "IP Cameras" },
+      { "slug": "nvr-recorders", "name": "NVR & Recorders" },
+      { "slug": "access-control", "name": "Access Control & Digital Locks" },
+      { "slug": "intercom", "name": "Video Door Phones & Intercom" }
+    ]
+  },
+  {
+    "slug": "network-connectivity",
+    "name": "Network Connectivity",
+    "icon": "network",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/Networking-450x450.jpg",
+    "blurb": "Schneider Actassi Cat6/Cat6A copper, fibre trunks, GPON hardware and 19-inch IT racks for structured, enterprise-grade cabling.",
+    "subcategories": [
+      { "slug": "copper-solutions", "name": "Copper Solutions" },
+      { "slug": "fiber-solutions", "name": "Fiber Solutions" },
+      { "slug": "gpon", "name": "GPON" },
+      { "slug": "it-racks", "name": "IT & Communication Racks" }
+    ]
+  },
+  {
+    "slug": "cable-management",
+    "name": "Cable Management",
+    "icon": "grid",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=70",
+    "blurb": "Floor boxes, trunking, power tracks and adapters that keep power and data tidy under tiles and carpets — Davis and Eubiq systems.",
+    "subcategories": [
+      { "slug": "tile-floor-boxes", "name": "Tile Type Floor Boxes" },
+      { "slug": "carpet-floor-boxes", "name": "Carpet Type Floor Boxes" },
+      { "slug": "power-tracks", "name": "Power Tracks" },
+      { "slug": "trunking-adapters", "name": "Trunking & Adapters" }
+    ]
+  },
+  {
+    "slug": "hifi-av-automation",
+    "name": "Hi-Fi & AV Automation",
+    "icon": "audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=70",
+    "blurb": "Floor-standing, in-wall and in-ceiling speakers, subwoofers, amplifiers, home cinema and multi-room audio by Audio Control, KEF, Dynaudio, Russound and Q Acoustics.",
+    "subcategories": [
+      { "slug": "floor-standing-speakers", "name": "Floor Standing Speakers" },
+      { "slug": "bookshelf-speakers", "name": "Bookshelf Speakers" },
+      { "slug": "in-ceiling-wall-speakers", "name": "In-Ceiling & In-Wall Speakers" },
+      { "slug": "outdoor-speakers", "name": "Outdoor Speakers" },
+      { "slug": "subwoofers", "name": "Subwoofers" },
+      { "slug": "amplifiers-processors", "name": "Amplifiers & AV Processors" },
+      { "slug": "soundbars", "name": "Soundbars" },
+      { "slug": "home-cinema", "name": "Home Cinema & Media Players" }
+    ]
+  },
+  {
+    "slug": "electrical-accessories",
+    "name": "Electrical Accessories",
+    "icon": "tools",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/electrical-accessories-1-300x300.jpg",
+    "blurb": "Door bells, surge extension boards, popup sockets, exhaust and bracket fans, mosquito killers and isolators for daily comfort.",
+    "subcategories": [
+      { "slug": "door-bells-chimes", "name": "Door Bells & Chimes" },
+      { "slug": "extension-boards", "name": "Extension Boards" },
+      { "slug": "popup-sockets", "name": "Popup Sockets" },
+      { "slug": "fans", "name": "Exhaust & Bracket Fans" },
+      { "slug": "mosquito-killers", "name": "Mosquito Killers" },
+      { "slug": "isolators", "name": "Isolators & Switches" }
+    ]
+  },
+  {
+    "slug": "metalclad-accessories",
+    "name": "Metalclad & Accessories",
+    "icon": "shield",
+    "image": "https://powerhouse.elevyndesigns.com/wp-content/themes/powerhouse/assets/images/metalclad-450x450.jpg",
+    "blurb": "IP66 weatherproof covers, heavy-gauge steel back boxes and rugged plugs & trailing sockets for industrial and outdoor installations.",
+    "subcategories": [
+      { "slug": "weatherproof-covers", "name": "Weather Protected Covers" },
+      { "slug": "surface-back-boxes", "name": "Surface Mount Back Boxes" },
+      { "slug": "plugs-trailing-sockets", "name": "Plugs & Trailing Sockets" }
+    ]
+  }
+]
